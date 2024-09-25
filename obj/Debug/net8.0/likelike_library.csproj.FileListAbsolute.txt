@@ -1,0 +1,15 @@
+/Users/hyunahn/codes/likelike_library/bin/Debug/net8.0/likelike_library
+/Users/hyunahn/codes/likelike_library/bin/Debug/net8.0/likelike_library.deps.json
+/Users/hyunahn/codes/likelike_library/bin/Debug/net8.0/likelike_library.runtimeconfig.json
+/Users/hyunahn/codes/likelike_library/bin/Debug/net8.0/likelike_library.dll
+/Users/hyunahn/codes/likelike_library/bin/Debug/net8.0/likelike_library.pdb
+/Users/hyunahn/codes/likelike_library/obj/Debug/net8.0/likelike_library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyunahn/codes/likelike_library/obj/Debug/net8.0/likelike_library.AssemblyInfoInputs.cache
+/Users/hyunahn/codes/likelike_library/obj/Debug/net8.0/likelike_library.AssemblyInfo.cs
+/Users/hyunahn/codes/likelike_library/obj/Debug/net8.0/likelike_library.csproj.CoreCompileInputs.cache
+/Users/hyunahn/codes/likelike_library/obj/Debug/net8.0/likelike_library.sourcelink.json
+/Users/hyunahn/codes/likelike_library/obj/Debug/net8.0/likelike_library.dll
+/Users/hyunahn/codes/likelike_library/obj/Debug/net8.0/refint/likelike_library.dll
+/Users/hyunahn/codes/likelike_library/obj/Debug/net8.0/likelike_library.pdb
+/Users/hyunahn/codes/likelike_library/obj/Debug/net8.0/likelike_library.genruntimeconfig.cache
+/Users/hyunahn/codes/likelike_library/obj/Debug/net8.0/ref/likelike_library.dll

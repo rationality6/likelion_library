@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hyunahn/codes/likelike_library/likelike_library/likelike_library.csproj",
+      "projectUniqueName": "/Users/hyunahn/codes/likelike_library/likelike_library.csproj",
       "projectName": "likelike_library",
-      "projectPath": "/Users/hyunahn/codes/likelike_library/likelike_library/likelike_library.csproj",
+      "projectPath": "/Users/hyunahn/codes/likelike_library/likelike_library.csproj",
       "packagesPath": "/Users/hyunahn/.nuget/packages/",
-      "outputPath": "/Users/hyunahn/codes/likelike_library/likelike_library/obj/",
+      "outputPath": "/Users/hyunahn/codes/likelike_library/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hyunahn/.nuget/NuGet/NuGet.Config"
